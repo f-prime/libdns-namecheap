@@ -1,4 +1,4 @@
-module github.com/libdns/namecheap
+module github.com/f-prime/libdns-namecheap
 
 go 1.23
 
